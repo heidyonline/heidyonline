@@ -40,7 +40,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide=issues"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=heidyonline&show_icons=true&theme=github_dark&hide=issues"/>
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark"/>
 </p>
