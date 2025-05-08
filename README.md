@@ -34,17 +34,3 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heidyonline&show_icons=true&theme=github_dark&hide=issues"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark"/>
-</p>
-
----
-
-*Feel free to check out my pinned repositories or say hi — I'm always open to collaborating on cool projects!*
